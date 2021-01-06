@@ -14,7 +14,7 @@
   "dependencies": {
     "@quasar/extras": "^1.0.0",
     "app": "^0.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "firebase": "^7.15.0",
     "qsearch": "^1.0.4",
     "quasar": "^1.12.5",
